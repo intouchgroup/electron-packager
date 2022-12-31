@@ -22,7 +22,7 @@
     "electron-builder": "17.1.1",
     "electron-installer-dmg": "0.2.1",
     "electron-packager": "8.5.1",
-    "electron-rebuild": "1.5.7",
+    "electron-rebuild": "1.11.0",
     "electron-winstaller": "2.5.2",
     "es6-promisify": "5.0.0",
     "prompt": "1.0.0",
